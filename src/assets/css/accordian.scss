@@ -1,0 +1,23 @@
+@import "./bgColors";
+
+.Acor-main {
+  width: 80%;
+  margin: auto;
+  text-align: justify;
+  padding: 10px 20px;
+  //   background-color: #e9afaf;
+}
+.main-heading p {
+  //   width: 100%;
+  background-color: $cart_bg2;
+  border-radius: 2px;
+  padding: 10px 10px;
+}
+.my-answers {
+  font-size: 18px;
+  width: 100%;
+}
+.dropdown_box {
+    border: 2px solid $cart_bg2;
+  //   border-radius: 50%;
+}
